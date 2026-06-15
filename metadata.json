@@ -1,0 +1,6 @@
+{
+  "name": "ASP.NET Core 8 eCommerce App & Studio",
+  "description": "Interactive storefront, admin dashboard, and full-stack .NET 8 MVC/API codebase blueprints with SQL Server scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
